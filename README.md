@@ -38,8 +38,8 @@ The course covers the full ML engineering lifecycle: frame the problem, prepare 
 
 | # | Module | Folder | Codelabs | Homework |
 |---|---|---|:---:|:---:|
-| 01 | Introduction to Machine Learning | [`01-intro`](./01-intro) | ⬜ | ⬜ |
-| 02 | Machine Learning for Regression | [`02-regression`](./02-regression) | ⬜ | ⬜ |
+| 01 | Introduction to Machine Learning | [`01-intro`](./01-intro) | ✅ | ✅ |
+| 02 | Machine Learning for Regression | [`02-regression`](./02-regression) | ✅ | ✅ |
 | 03 | Machine Learning for Classification | [`03-classification`](./03-classification) | ⬜ | ⬜ |
 | 04 | Evaluation Metrics for Classification | [`04-evaluation`](./04-evaluation) | ⬜ | ⬜ |
 | 05 | Deploying Machine Learning Models | [`05-deployment`](./05-deployment) | ⬜ | ⬜ |
