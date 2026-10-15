@@ -40,8 +40,8 @@ The course covers the full ML engineering lifecycle: frame the problem, prepare 
 |---|---|---|:---:|:---:|
 | 01 | Introduction to Machine Learning | [`01-intro`](./01-intro) | ✅ | ✅ |
 | 02 | Machine Learning for Regression | [`02-regression`](./02-regression) | ✅ | ✅ |
-| 03 | Machine Learning for Classification | [`03-classification`](./03-classification) | ⬜ | ⬜ |
-| 04 | Evaluation Metrics for Classification | [`04-evaluation`](./04-evaluation) | ⬜ | ⬜ |
+| 03 | Machine Learning for Classification | [`03-classification`](./03-classification) | ✅  | ✅  |
+| 04 | Evaluation Metrics for Classification | [`04-evaluation`](./04-evaluation) | ✅  | ✅  |
 | 05 | Deploying Machine Learning Models | [`05-deployment`](./05-deployment) | ⬜ | ⬜ |
 | 06 | Decision Trees & Ensemble Learning | [`06-trees`](./06-trees) | ⬜ | ⬜ |
 | 08 | Neural Networks & Deep Learning | [`08-deep-learning`](./08-deep-learning) | ⬜ | ⬜ |
